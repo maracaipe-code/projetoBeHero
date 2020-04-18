@@ -1,5 +1,5 @@
 const express = require('express');
 
-cosnt app = express();
+const app = express();
 
 app.listen(3333);
